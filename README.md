@@ -4,7 +4,7 @@ Dev Hub is a free menu-bar app that shows every development server listening on 
 
 This repository hosts **release downloads only**. Dev Hub is proprietary software; its source code is not published.
 
-![Dev Hub dashboard](docs/screenshots/servers.png)
+![Dev Hub dashboard](docs/screenshots/projects.png)
 
 ## Download
 
